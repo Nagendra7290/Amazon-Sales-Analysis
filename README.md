@@ -214,8 +214,11 @@ SUMX(
 ---
 
 ## 📷 Dashboard Preview
-
-*Add your dashboard screenshot here*
+<p align="center">
+  <img src="https://github.com/Nagendra7290/Amazon-Sales-Analysis/blob/main/Screenshot%202026-03-19%20004247.png" width="full"/>
+  <br>
+  <em>Amazon Sales Performance Dashboard</em>
+</p>
 
 ---
 
