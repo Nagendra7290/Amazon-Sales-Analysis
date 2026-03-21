@@ -1,5 +1,5 @@
 
-# 📊 Amazon Sales Performance Dashboard (Power BI Project)
+# 📊 Amazon Sales Performance Dashboard - Power BI
 
 ## 🚀 Project Overview
 This project presents a fully interactive **Amazon Sales Performance Dashboard** built using **Power BI**. It provides deep insights into sales, customer behavior, product performance, and regional distribution.
