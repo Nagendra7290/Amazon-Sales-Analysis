@@ -8,6 +8,14 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 
 ---
 
+## 📷 Dashboard Preview
+<p align="center">
+  <img src="https://github.com/Nagendra7290/Amazon-Sales-Analysis/blob/main/Screenshot%202026-03-22%20025024.png" width="full"/>
+  <br>
+  <em>Amazon Sales Performance Dashboard</em>
+</p>
+----
+
 ## 📁 Dataset Information
 - **Source:** Kaggle (Amazon / E-commerce Sales Dataset)
 - **Format:** CSV
