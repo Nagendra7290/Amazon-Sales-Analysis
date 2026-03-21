@@ -248,16 +248,6 @@ SUMX(
 
 ---
 
-## 🙌 Conclusion
-
-This project demonstrates how raw data can be transformed into meaningful insights using Power BI. It is highly useful for roles in:
-
-* Data Analyst
-* Business Intelligence Analyst
-* Supply Chain Analyst
-
----
-
 ## ⭐ Support
 
 If you like this project, give it a ⭐ on GitHub!
