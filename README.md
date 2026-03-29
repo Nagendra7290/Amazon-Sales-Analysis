@@ -1,14 +1,14 @@
 
-# 📊 Amazon Sales Performance Dashboard - Power BI
+#  Amazon Sales Performance Dashboard - Power BI
 
-## 🚀 Project Overview
+## Project Overview
 This project presents a fully interactive **Amazon Sales Performance Dashboard** built using **Power BI**. It provides deep insights into sales, customer behavior, product performance, and regional distribution.
 
 The dataset used in this project was downloaded from **Kaggle**, containing realistic e-commerce transaction data. This project highlights strong capabilities in **data visualization, business intelligence, and advanced DAX calculations**.
 
 ---
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 <p align="center">
   <img src="https://github.com/Nagendra7290/Amazon-Sales-Analysis/blob/main/Screenshot%202026-03-22%20025024.png" width="full"/>
   <br>
@@ -16,7 +16,7 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 </p>
 ----
 
-## 📁 Dataset Information
+##  Dataset Information
 - **Source:** Kaggle (Amazon / E-commerce Sales Dataset)
 - **Format:** CSV
 - **Data Fields:**
@@ -33,7 +33,7 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 - Power BI Desktop  
 - Power Query (ETL)  
 - DAX (Advanced Calculations)  
@@ -41,7 +41,7 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 
 ---
 
-## 🛠️ Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Collection
 - Downloaded dataset from Kaggle  
@@ -60,16 +60,16 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 
 ---
 
-## 📊 Key KPIs
-- 💰 Total Revenue: **32.87M**  
-- 📦 Total Orders: **50K**  
-- 📊 Quantity Sold: **150K**  
-- 📈 Avg Order Value: **657.33**  
-- ⭐ Avg Rating: **3.00**  
+##  Key KPIs
+-  Total Revenue: **32.87M**  
+-  Total Orders: **50K**  
+-  Quantity Sold: **150K**  
+-  Avg Order Value: **657.33**  
+-  Avg Rating: **3.00**  
 
 ---
 
-## 📈 Dashboard Visuals
+##  Dashboard Visuals
 - Revenue by Product Category  
 - Monthly Sales Trend  
 - Customer Region Analysis  
@@ -81,7 +81,7 @@ The dataset used in this project was downloaded from **Kaggle**, containing real
 
 ---
 
-## 🧠 Advanced DAX Measures
+##  Advanced DAX Measures
 
 ### 🔹 Basic Measures
 ```DAX
@@ -96,7 +96,7 @@ Average Rating = AVERAGE('Sales'[Rating])
 
 ---
 
-### 🔹 Time Intelligence
+###  Time Intelligence
 
 ```DAX
 Revenue YTD = 
@@ -124,7 +124,7 @@ DIVIDE(CurrentYear - PreviousYear, PreviousYear, 0)
 
 ---
 
-### 🔹 Advanced Business Metrics
+###  Advanced Business Metrics
 
 ```DAX
 Average Order Value = 
@@ -151,7 +151,7 @@ CALCULATE(
 
 ---
 
-### 🔹 Ranking & Segmentation
+###  Ranking & Segmentation
 
 ```DAX
 Category Rank = 
@@ -173,7 +173,7 @@ SWITCH(
 
 ---
 
-### 🔹 Moving Average & Trend
+###  Moving Average & Trend
 
 ```DAX
 7 Day Moving Avg = 
@@ -190,7 +190,7 @@ AVERAGEX(
 
 ---
 
-### 🔹 Discount Impact
+###  Discount Impact
 
 ```DAX
 Revenue After Discount = 
@@ -202,17 +202,17 @@ SUMX(
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
-* 📌 Balanced revenue across product categories
-* 📌 Equal contribution from global regions
-* 📌 Digital payments dominate transactions
-* 📌 Discounts increase total sales volume
-* 📌 Stable monthly sales trend
+*  Balanced revenue across product categories
+*  Equal contribution from global regions
+*  Digital payments dominate transactions
+*  Discounts increase total sales volume
+*  Stable monthly sales trend
 
 ---
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 * Advanced Power BI dashboard development
 * Strong DAX and data modeling skills
@@ -221,7 +221,7 @@ SUMX(
 
 ---
 
-## 🔗 How to Use
+##  How to Use
 
 1. Download `.pbix` file
 2. Open in Power BI Desktop
@@ -230,7 +230,7 @@ SUMX(
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 * Forecasting (AI visuals)
 * Real-time data integration
@@ -239,9 +239,9 @@ SUMX(
 
 ---
 
-## ⭐ Support
+##  Support
 
-If you like this project, give it a ⭐ on GitHub!
+If you like this project, give it a  on GitHub!
 
 ---
 
