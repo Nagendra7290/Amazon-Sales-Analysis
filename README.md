@@ -1,9 +1,8 @@
 
 #  Amazon Sales Performance Dashboard - Power BI
-
 ## Project Overview
-   This project presents a fully interactive **Amazon Sales Performance Dashboard** built using **Power BI**. It provides deep insights into sales, customer behavior, product performance, and regional distribution.
-   The dataset used in this project was downloaded from **Kaggle**, containing realistic e-commerce transaction data. This project highlights strong capabilities in **data visualization, business intelligence, and advanced DAX calculations**.
+- This project presents a fully interactive **Amazon Sales Performance Dashboard** built using **Power BI**. It provides deep insights into sales, customer behavior, product performance, and regional distribution.
+- The dataset used in this project was downloaded from **Kaggle**, containing realistic e-commerce transaction data. This project highlights strong capabilities in **data visualization, business intelligence, and advanced DAX calculations**.
 
 ---
 ##  Dashboard Preview
